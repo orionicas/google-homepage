@@ -1,1 +1,1 @@
-My first project wowee!
+My first project wowee! Here I have to make a Google homepage copy using my barely learnt knowledge of HTML and CSS. Hope I don't perish!
