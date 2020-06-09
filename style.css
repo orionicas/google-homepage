@@ -16,6 +16,37 @@ html {
     height: auto;
 }
 
+.search {
+    position: relative;
+    top: 14rem;
+}
+
+#searchbar {
+    width: 35rem;
+    height: 2.5rem;
+    margin: auto;
+    display: block;
+    border-radius: 30px;
+}
+
+.button-total {
+    width: 17.5rem;
+    padding: 0.8rem;
+    margin: auto;
+}
+
+.button1 {
+    width: 8.3rem;
+    height: 2.2rem;
+    margin-right: 0.2rem;
+}
+
+.button2 {
+    width: 8.3rem;
+    height: 2.2rem;
+    margin-left: 0.2rem;
+}
+
 a {
     text-decoration: none;
     font-family: Arial, sans-serif;
