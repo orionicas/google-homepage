@@ -1,10 +1,15 @@
-#google {
+#threeracha {
     display: block;
     margin: auto;
     width: 17rem;
     height: auto;
     position: relative;
     top: 12rem;
+}
+
+#google {
+    width: 17rem;
+    height: auto;
 }
 
 ul {
