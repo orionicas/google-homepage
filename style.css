@@ -1,11 +1,7 @@
 html {
-    height: 100%;
-    margin: 0.3em;
+    
 }
 
-body {
-    min-height: 100%;
-}
 #threeracha {
     display: block;
     margin: auto;
@@ -27,12 +23,20 @@ a {
     font-size: 0.8rem;
 }
 
+a:hover {
+    text-decoration: underline;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
 }
 
+header {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
 .about-store {
     float: left;
     padding: 0.6rem;
@@ -42,4 +46,45 @@ ul {
 .gmail-images {
     float: right;
     padding: 0.6rem;
+}
+
+footer {
+    position: absolute;
+    bottom:0;
+    left: 0;
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+    color: #6e6e6e;
+    font-size: 0.9rem;
+    width: 100%;
+    display: block;
+    background-color: #f2f2f2;
+    border-top: 0.05rem solid #e4e4e4;
+}
+
+.australia {
+    margin: 1rem;
+    padding-left: 1rem;
+    color: #6e6e6e;
+}
+
+.bottomnav {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.bottom-left {
+    float: left;
+    padding: 0.8rem;
+    color: #6e6e6e;
+}
+
+.bottom-right {
+    float: right;
+    padding: 0.8rem;
+    color: #6e6e6e;
+}
+
+hr {
+    border-top: 0.05rem solid #e4e4e4;
 }
