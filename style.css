@@ -31,10 +31,15 @@ html {
     border-style: solid;
     border-color: #e4e4e4;
     border-width: 0.05rem;
+    background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Vector_search_icon.svg/945px-Vector_search_icon.svg.png) no-repeat scroll 1rem 0.75rem;
+    background-size: 1rem auto;
 }
 
 #searchbar:hover {
     box-shadow: 0px 0px 3px 0.1px #e4e4e4, 0px 2px 5px 0.1px #dadada;
+}
+
+#search-icon {
 }
 
 .button-total {
